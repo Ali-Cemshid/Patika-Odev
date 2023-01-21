@@ -1,0 +1,2 @@
+# Patika-Odev
+Patika Ödevi
